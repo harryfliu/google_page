@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.left {
+    float: left;
+    padding: 10px 10px;
+}
+
+.right {
+    float: right;
+    padding: 10px 10px;
+}
+
+a {
+    font-family: arial;
+    font-size: 13px;
+}
+
+a:link {
+    color: black;
+}
+
+#logo {
+    display: block;
+    position: relative;
+    /*position: absolute;*/
+    width: auto;
+    margin: 0 auto;
+}
+
+#search {
+    display: block;
+    position: relative;
+    width: auto;
+    margin: 0 auto;
+}
